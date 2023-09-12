@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7b1eafeb461c0944da7deda01757b7ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - atkFloor: {fileID: 8626689183116054210, guid: 1920210ecffdad347aed74c068866788, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e1920ff3e6a544646abd73a3c5f55261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  - testroom: {instanceID: 0}
+  - now_floor: {instanceID: 0}
+  - floor_feb: {instanceID: 0}
+  - game: {instanceID: 0}
+  - room: {fileID: 596851668636212430, guid: a169ec36ac42d2145bd13922f37af4d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

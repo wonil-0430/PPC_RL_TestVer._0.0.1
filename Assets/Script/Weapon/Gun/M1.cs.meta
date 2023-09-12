@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 561d1fe39bcb3c74fb251619456010f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  - gamemanager: {instanceID: 0}
+  - WeaponImage: {fileID: 8584008140496728129, guid: c14582d15f4353f4d9dfda3bcda4644d, type: 3}
+  - Bullet: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
